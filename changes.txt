@@ -1,0 +1,5 @@
+ionic start a10 sidemenu --cordova
+Add <preference name="android-targetSdkVersion" value="30" /> to config.xml
+
+ionic cordova platform add browser
+ionic cordova platform add android@10.1.1
